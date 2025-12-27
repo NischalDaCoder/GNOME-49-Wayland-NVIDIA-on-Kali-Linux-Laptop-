@@ -208,7 +208,7 @@ It should say:
 
 ## **My Working Version of NVIDIA in GNOME 49**
 
-![Screenshot](Pictures/Screenshots/nvidia.png)
+![Screenshot](nvidia.png)
 
 
 ## **What I Learned**
